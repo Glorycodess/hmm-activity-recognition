@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
+3,iPhone 15 Plus,1782814241311,2026-06-30_10-10-41,Africa/Kigali,ios,1.60.1,742ca16c-0589-4035-b673-ab0be0803818,Accelerometer|Gyroscope|Annotation|GyroscopeUncalibrated|AccelerometerUncalibrated,20|20||20|20,false,26.5
