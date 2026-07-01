@@ -58,5 +58,5 @@ numpy, pandas, scipy, scikit-learn, matplotlib, seaborn, hmmlearn
 
 ## Author
 
-Glory Paul — African Leadership University, June 2026
+Glory Paul — African Leadership University, July 2026
 Formative 2 | Machine Learning Operations
