@@ -10,6 +10,7 @@ This project implements a complete activity recognition pipeline using real sens
 
 ## Repository Structure
 
+```
 hmm-activity-recognition/
 ├── data/                  # Labeled sensor recordings (CSV)
 │   ├── still/             # 15 training takes
@@ -21,6 +22,7 @@ hmm-activity-recognition/
 ├── report/                # Final report (PDF)
 ├── Formative2.ipynb       # Main notebook — full pipeline
 └── README.md
+```
 
 ## Pipeline
 
